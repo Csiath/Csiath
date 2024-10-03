@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> 
   Estou no último semestre de Análise e desenvolvimento de sistemas na <strong>UNICID</strong>.<br>
-  Em transição de carreira (da saúde para tecnologia, que coisa, né?) no segundo ano de estágio 
+  Em transição de carreira, atualmente no segundo ano de estágio 
   em inteligência de dados no Bradesco. 
 </p>
 
