@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <p align="left"> 
   Estou no último semestre de Análise e desenvolvimento de sistemas na <strong>UNICID</strong>.<br>
-  Estou em transição de carreira (da saúde para tecnologia, que coisa, né?) no segundo ano de estágio 
-  em inteligência de dados no Bradesco. Atuei um ano com data science e agora atuo com engenharia de dados.
+  Em transição de carreira (da saúde para tecnologia, que coisa, né?) no segundo ano de estágio 
+  em inteligência de dados no Bradesco. 
 </p>
 
 <p align="left">
